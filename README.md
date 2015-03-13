@@ -1,1 +1,1 @@
-MY EMEBEDDED SYSTEM TRAINING
+Use for training ARM architecture.
